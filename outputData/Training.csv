@@ -1,0 +1,8 @@
+SequenceNumber,IsPan,sixteendigits,fifteendigits,fourteendigits,startwithfive,startwithfour
+1,0,0,0,0,0,0,123 Card NUmber is  : 1111000054328884
+2,1,0,1,1,1,1,0,123 Card NUmber is  : 5567000088884444
+3,1,0,1,1,1,0,1,123 Card NUmber is  : 4430000054321234
+4,1,0,1,1,1,0,1,123 Card NUmber is  : 4430000054321234
+5,1,0,1,1,1,1,0,123 Card NUmber is  : 5567000088884444
+6,1,0,1,1,1,1,0,123 Card NUmber is  : 5567000054328884
+7,0,0,0,0,0,0,123 Card NUmber is  : 5511000054321234
