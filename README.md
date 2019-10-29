@@ -6,7 +6,7 @@ As per the Security standards any user logs/application logs should not contains
 This Project aim at analysis the application logdata from ELK/SPlunk and predict is the pattern that consist of Credit Card number, SSN etc. The final aim of the project is to predict and send email to the log user/producer, alerting them to remove the sensitive information from logging. 
 
 ### Technologies Used: 
-- Front End: ELK
+- Datasource: ELK/SPlunk
 - Backend: Python for API 
 - ML Algorithm - XGBoost
 - AWS Cloud S3, Sagemaker
@@ -24,3 +24,7 @@ Acronyms Used:
 BIN - Bank Identification Number
 
 ![](/images/decisionTress.jpg)
+
+### Future Expansion
+
+Can be extended for identifying patterns for SSN, Date of Birth , Customer name etc
